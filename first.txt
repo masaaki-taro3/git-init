@@ -1,2 +1,4 @@
 GITの練習
 基本的な練習
+git add
+git nommit
